@@ -1,3 +1,4 @@
 names=["Ann","Liya","Cerah","Abin"]
 print(names)
-print(names[2])
+names[2]="Giya"
+print(names)
