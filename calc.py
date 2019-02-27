@@ -5,3 +5,6 @@ def addition(x,y):
 def subtraction(x,y):
     z=x-y
     print("Difference of ",x," & ",y," : ",z)
+
+def test():
+    print(__name__)
